@@ -1,0 +1,22 @@
+{
+  "name": "emberjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "handlebars": "~4.0.3",
+    "ember": "~2.1.0",
+    "ember-data": "~2.1.0"
+  }
+}
